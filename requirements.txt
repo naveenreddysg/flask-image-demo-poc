@@ -1,0 +1,14 @@
+alembic
+click
+Flask
+Flask-Migrate
+Flask-Script
+mysqlclient
+Flask-SQLAlchemy
+itsdangerous
+Jinja2
+Mako
+MarkupSafe
+psycopg2
+python-editor
+Werkzeug
